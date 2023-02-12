@@ -10,6 +10,5 @@ title: Markdown Attributes
 
 # Markdown Attributes
 
-
-https://github.com/valentine195/obsidian-markdown-attributes
+<https://github.com/valentine195/obsidian-markdown-attributes>
 

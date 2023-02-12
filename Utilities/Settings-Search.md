@@ -10,5 +10,4 @@ title: Settings Search
 
 # Settings Search
 
-
-https://github.com/valentine195/obsidian-settings-search
+<https://github.com/valentine195/obsidian-settings-search>

@@ -7,7 +7,7 @@ parent: "Obsidian Utilities"
 permalink: /:path/:basename
 title: Admonition
 ---
+
 # Admonition
 
-
-https://github.com/valentine195/obsidian-admonition
+<https://github.com/valentine195/obsidian-admonition>

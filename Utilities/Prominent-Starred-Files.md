@@ -10,4 +10,4 @@ title: Prominent Starred Files
 
 # Prominent Starred Files
 
-https://github.com/valentine195/obsidian-prominent-starred-files
+<https://github.com/valentine195/obsidian-prominent-starred-files>

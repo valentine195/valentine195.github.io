@@ -10,6 +10,4 @@ title: Notifier
 
 # Notifier
 
-
-
-https://github.com/valentine195/obsidian-notifier
+<https://github.com/valentine195/obsidian-notifier>

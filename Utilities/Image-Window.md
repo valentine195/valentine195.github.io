@@ -12,5 +12,4 @@ title: Image Window
 
 Also referred to as Second Window.
 
-
-https://github.com/valentine195/obsidian-image-window
+<https://github.com/valentine195/obsidian-image-window>

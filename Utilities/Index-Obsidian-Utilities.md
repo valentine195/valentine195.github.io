@@ -9,5 +9,4 @@ title: Obsidian Utilities
 
 # Obsidian Utilities
 
-
 Placeholder
