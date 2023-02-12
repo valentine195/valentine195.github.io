@@ -1,6 +1,8 @@
-// Typography
 
-$body-font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
+// Typography
+@import "/12000-Valantasy/_sass/color_schemes/scss/pathfinder-font";
+
+$body-font-family: system-ui, "Pathfinder", -apple-system, blinkmacsystemfont, "Segoe UI",
   roboto, "Helvetica Neue", arial, sans-serif !default;
 $mono-font-family: "SFMono-Regular", menlo, consolas, monospace !default;
 $root-font-size: 16px !default; // Base font-size for rems
@@ -13,7 +15,7 @@ $body-heading-line-height: 1.25 !default;
 
 $font-size-1: 9px !default;
 $font-size-1-sm: 10px !default;
-$font-size-2: 11px !default; // h4 - uppercased!, h6 not uppercased, text-small
+$font-size-2: 11px !default; // h4 - uppercase!, h6 not uppercase, text-small
 $font-size-3: 12px !default; // h5
 $font-size-4: 14px !default;
 $font-size-5: 16px !default; // h3

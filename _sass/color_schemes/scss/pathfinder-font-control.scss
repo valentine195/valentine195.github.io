@@ -1,0 +1,23 @@
+$body-font-family: system-ui, "Pathfinder", -apple-system, blinkmacsystemfont, "Segoe UI",
+roboto, "Helvetica Neue", arial, sans-serif;
+$mono-font-family: "SFMono-Regular", menlo, consolas, monospace !default;
+$root-font-size: 16px; // Base font-size for rems
+$body-line-height: 1.4;
+$content-line-height: 1.6;
+$body-heading-line-height: 1.25;
+
+// Font size
+// `-sm` suffix is the size at the small (and above) media query
+
+$font-size-1: 10px;
+$font-size-1-sm: 11px;
+$font-size-2: 12px; // h4 - uppercase!, h6 not uppercase, text-small
+$font-size-3: 13px; // h5
+$font-size-4: 14px;
+$font-size-5: 17px; // h3
+$font-size-6: 19px; // h2
+$font-size-7: 25px;
+$font-size-8: 33px; // h1
+$font-size-9: 37px;
+$font-size-10: 45px;
+$font-size-10-sm: 49px;

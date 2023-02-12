@@ -2,7 +2,7 @@
 has_children: false
 has_toc: false
 layout: default
-nav_order: 5
+nav_order: 6
 parent: "Obsidian Utilities"
 permalink: /:path/:basename
 title: Settings Search

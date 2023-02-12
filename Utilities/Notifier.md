@@ -2,7 +2,7 @@
 has_children: false
 has_toc: false
 layout: default
-nav_order: 
+nav_order: 4
 parent: "Obsidian Utilities"
 permalink: /:path/:basename
 title: Notifier

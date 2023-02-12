@@ -7,7 +7,7 @@ permalink: /:path/:basename
 title: Retired Resources
 ---
 
-# Retired Plugins and Scripts
+# Retired Resources
 
 
 Placeholder
