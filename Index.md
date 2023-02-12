@@ -2,8 +2,8 @@
 has_children: false
 has_toc: false
 layout: default
-nav_order: 9
-permalink: /:path/:basename
+nav_order: 1
+permalink: /index
 title: "Home"
 ---
 

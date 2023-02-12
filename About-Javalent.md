@@ -9,4 +9,7 @@ title: "About Javalent"
 
 # About Javalent
 
-Stuff Here
+Stuff Here.
+Basically a tiny CV/What Javalent likes about the plugins, why he makes them, what he uses them for.
+
+Embedded video links to his videos.
