@@ -2,12 +2,12 @@
 has_children: true
 has_toc: true
 layout: default
-nav_order: 2
+nav_order: 4
 permalink: /:path/:basename
-title: The Fantasy System
+title: Retired Resources
 ---
 
-# The Fantasy System of Plugins
+# Retired Plugins and Scripts
+
 
 Placeholder
-
