@@ -1,0 +1,82 @@
+title: Javalent's Plugins
+description:
+# Build settings
+remote_theme: just-the-docs/just-the-docs@v0.4.0
+markdown: Kramdown
+plugins:
+  - jekyll-default-layout
+  - jekyll-seo-tag
+  - jekyll-relative-links
+
+url: plugins.javalent.com
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: light
+
+  # Aux links for the upper right navigation
+"Javalent's Plugins":
+    - "//plugins.javalent.com"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: false
+
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+#
+# Supports true (default) or false
+heading_anchors: true
+
+# External navigation links
+nav_external_links:
+  - title: I am an external Linku!
+    url: https://github.com/just-the-docs/just-the-docs
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+
+# Callouts 
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+  coming:
+    title: Coming Soon
+    color: pink
+    opacity: 0.3
+
+exclude:
+  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  # specific to the theme website:
+  - bin/
+  - lib/
+  - "*.gemspec"
+  - "*.gem"
+  - LICENSE.txt
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README.md
