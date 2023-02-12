@@ -10,7 +10,18 @@ title: Fantasy Statblocks
 
 # Fantasy Statblocks
 
+[Fantasy Statblocks Documentation](http://example.com/){: .btn .btn-green .mr-4 }
+
+
+
+
+
+
 Brief Overview Here
+
+
+
+
 
 Documentation
 plugins.javalent.com/statblocks

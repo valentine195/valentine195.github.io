@@ -25,5 +25,3 @@ For example:
 - The Fantasy Statblocks plugin allows you to quickly generate detailed character sheets and NPC statistics.
 
 By using these plugins in with your notes, you can create a dynamic and immersive world for your roleplaying adventures. Whether you're tracking character stats as a player, managing world-building details as game master, or simply keeping a detailed timeline of events as a writer, these plugins help provide the tools you need to bring the fantasy to reality.
-
-
