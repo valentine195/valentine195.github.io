@@ -15,8 +15,8 @@ Pretty Image here
 
 ***
 
-[Fantasy Statblocks Documentation](https://plugins.javalent.com/obsidian-5e-statblocks/){: .btn .btn-green .mr-2 }
-[Fantasy Statblocks at Github](https://github.com/valentine195/obsidian-5e-statblocks){: .btn .btn-blue .mr-2 }
+[Fantasy Statblocks Documentation](https://plugins.javalent.com/fantasy-statblocks/){: .btn .btn-green .mr-2 }
+[Fantasy Statblocks at Github](https://github.com/valentine195/fantasy-statblocks){: .btn .btn-blue .mr-2 }
 
 
 ***

@@ -2,7 +2,7 @@
 has_children: false
 has_toc: false
 layout: default
-nav_order: 10
+nav_order: 0
 permalink: /index
 title: "Home"
 ---
