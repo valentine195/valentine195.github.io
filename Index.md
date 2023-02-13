@@ -13,24 +13,24 @@ Welcome to Javalent's Plugins  **[Obsidian.md](https://obsidian.md)**.
 
 You know 'em, you love 'em, now here is how to use them.
 
-> ## The Fantasy System
-> With the Fantasy System of Plugins, you can enhance your Table Top Roleplaying experience in Obsidian.
+## The Fantasy System
+With the Fantasy System of Plugins, you can enhance your Table Top Roleplaying experience in Obsidian.
 The plugins in "The Fantasy System" navigation pane are specifically designed for this purpose.
 For example:
-> - The Fantasy Calendar plugin allows you to keep track of in-game time, with features like tracking era changes and creating events.
-> - The Fantasy Bestiary plugin helps you keep track of the different creatures and beings in your game world
-> - The Fantasy Statblocks plugin allows you to quickly generate detailed character sheets and NPC statistics.
->
-> By using these plugins in with your notes, you can create a dynamic and immersive world for your roleplaying adventures. Whether you're tracking character stats as a player, managing world-building details as game master, or simply keeping a detailed timeline of events as a writer, these plugins help provide the tools you need to bring the fantasy to reality.
->{: .d-flex .float-left}
+- The Fantasy Calendar plugin allows you to keep track of in-game time, with features like tracking era changes and creating events.
+- The Fantasy Bestiary plugin helps you keep track of the different creatures and beings in your game world
+- The Fantasy Statblocks plugin allows you to quickly generate detailed character sheets and NPC statistics.
 
-> ## The Utility System
-> With the Utility System of Plugins, you can augment your Obsidian environment with quality of life tools that feel like they are core features.
->
-> The plugins in the "Obsidian Utilities" navigation pane are crafted with care to meet this design need.
->
-> For example:
-> - Admonition allows you to create easy to use and beautiful looking custom callouts, with the inherit stability and functionality of a code block. 
-> - Image Window remains the most reliable way to display content on a second screen from Obsidian. The core function is native to Obsidian, but is subject to limitations that Image Window does not have. 
-> - Markdown Attributes brings a greater expansion of targeted CSS styling through the use of `{ .class }` and `{ id=example .myclass }` markers within the note.
->  {: .d-flex .float-right}
+By using these plugins in with your notes, you can create a dynamic and immersive world for your roleplaying adventures. Whether you're tracking character stats as a player, managing world-building details as game master, or simply keeping a detailed timeline of events as a writer, these plugins help provide the tools you need to bring the fantasy to reality.
+
+
+## The Utility System
+With the Utility System of Plugins, you can augment your Obsidian environment with quality of life tools that feel like they are core features.
+
+The plugins in the "Obsidian Utilities" navigation pane are crafted with care to meet this design need.
+
+For example:
+- Admonition allows you to create easy to use and beautiful looking custom callouts, with the inherit stability and functionality of a code block. 
+- Image Window remains the most reliable way to display content on a second screen from Obsidian. The core function is native to Obsidian, but is subject to limitations that Image Window does not have. 
+- Markdown Attributes brings a greater expansion of targeted CSS styling through the use of `{ .class }` and `{ id=example .myclass }` markers within the note.
+
