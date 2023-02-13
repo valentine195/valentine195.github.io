@@ -4,10 +4,10 @@ has_toc: true
 layout: default
 nav_order: 4
 permalink: /:path/:basename
-title: Retired Resources
+title: Sunset Resources
 ---
 
-# Retired Resources
+# Sunset Resources
 
 
 Placeholder
