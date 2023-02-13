@@ -3,7 +3,7 @@ has_children: false
 has_toc: false
 layout: default
 nav_order: 1
-parent: "Retired Resources"
+parent: "Sunset Resources"
 permalink: /:path/:basename
 title: Block Drag
 ---

@@ -3,7 +3,7 @@ has_children: false
 has_toc: false
 layout: default
 nav_order: 2
-parent: "Retired Resources"
+parent: "Sunset Resources"
 permalink: /:path/:basename
 title: Obsidian Prettier
 ---
